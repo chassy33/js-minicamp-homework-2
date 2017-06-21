@@ -1,0 +1,11 @@
+-for loop: as long as a specific condition is met the code will continue to run
+
+- &&: as long as var1 AND var2 are both true the code will run
+
+-||: as long as var 1 OR var2 are true the code will run
+
+-Array: an array is a list of values that can be integers, strings, or boolean values. all stored within the same container
+
+-git: software to control you code versions and revisions
+
+-gitHub: online storage of code that can be copied and modified by others 
